@@ -18,12 +18,12 @@ Numerous research studies have found that climate change has already led to an e
 We propose the Clean Collector Algorithm (CCA), designed to take full advantage of this cloudless SAR data and eliminate factors that may hinder the data learning process. Subsequently, we applied pix2pixHD for the SAR-to-EO translation and Restormer for image enhancement. In the final evaluation, **the team ‘CDRL’ achieved an MAE of 0.07313, securing the top rank on the leaderboard.**
 
 ### Clean Collector Algorithm (CCA) example images
-<p align="center"><img src="https://github.com/cjf8899/MultiEarth2023_SAR2EO_1st_Place_Solution/assets/53032349/8c277e67-e95d-4f77-aa22-546ee6cd155b" width="90%" height="90%" title="70px" alt="memoryblock"></p>
+<p align="center"><img src="https://github.com/cjf8899/MultiEarth2023_SAR2EO_1st_Place_Solution/assets/53032349/8c277e67-e95d-4f77-aa22-546ee6cd155b" width="70%" height="70%" title="70px" alt="memoryblock"></p>
 
 ### Test Data Submission Result & Images.
-<p align="center"><img src="https://github.com/cjf8899/MultiEarth2023_SAR2EO_1st_Place_Solution/assets/53032349/10b2d6f0-a77e-413b-b515-b0920e7a360d" width="90%" height="90%" title="70px" alt="memoryblock"></p>
+<p align="center"><img src="https://github.com/cjf8899/MultiEarth2023_SAR2EO_1st_Place_Solution/assets/53032349/10b2d6f0-a77e-413b-b515-b0920e7a360d" width="70%" height="70%" title="70px" alt="memoryblock"></p>
 
-<p align="center"><img src="https://github.com/cjf8899/MultiEarth2023_SAR2EO_1st_Place_Solution/assets/53032349/f567fef9-d31d-4872-9a80-41c5092927d1" width="90%" height="90%" title="70px" alt="memoryblock"></p>
+<p align="center"><img src="https://github.com/cjf8899/MultiEarth2023_SAR2EO_1st_Place_Solution/assets/53032349/f567fef9-d31d-4872-9a80-41c5092927d1" width="70%" height="70%" title="70px" alt="memoryblock"></p>
 
 ## Thanks to
 We would like to thank [Minseok Seo](https://scholar.google.co.kr/citations?user=pOygDIIAAAAJ&hl) and [JongChan Park](https://scholar.google.co.kr/citations?user=jxJw3_oAAAAJ&hl) for their technical assistance during the competition. 
