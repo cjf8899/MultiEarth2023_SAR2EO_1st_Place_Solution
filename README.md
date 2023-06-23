@@ -4,7 +4,7 @@
 > 
 > [Jingi Ju](https://scholar.google.co.kr/citations?user=hlJYrqAAAAAJ&hl), [Hyeoncheol Noh](https://scholar.google.co.kr/citations?user=XTmafQgAAAAJ&hl), [Minwoo Kim](https://scholar.google.com/citations?user=c7el4JwAAAAJ), [Dong-Geol Choi](https://scholar.google.co.kr/citations?user=1498JWoAAAAJ&hl)
 > 
-> *[arXiv](https://arxiv.org/pdf/2306.12626.pdf)*
+> *[arXiv](https://arxiv.org/abs/2306.12626v1)*
 > 
 > *[Project Presentations](https://github.com/cjf8899/MultiEarth2023_SAR2EO_1st_Place_Solution/files/11846834/default.pdf)*
 
