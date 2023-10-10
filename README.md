@@ -1,6 +1,7 @@
 # MultiEarth2023_SAR2EO_1st_Place_Solution
 
 > **1st Place Solution to MultiEarth 2023 Challenge on Multimodal SAR-to-EO Image Translation**
+> **CCA: Clean Collector Algorithm for Satellite Image Pre-processing of SAR-to-EO Translation(under review)** 
 > 
 > [Jingi Ju](https://scholar.google.co.kr/citations?user=hlJYrqAAAAAJ&hl), [Hyeoncheol Noh](https://scholar.google.co.kr/citations?user=XTmafQgAAAAJ&hl), [Minwoo Kim](https://scholar.google.com/citations?user=c7el4JwAAAAJ), [Dong-Geol Choi](https://scholar.google.co.kr/citations?user=1498JWoAAAAJ&hl)
 > 
